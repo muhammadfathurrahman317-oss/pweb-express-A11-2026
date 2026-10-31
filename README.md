@@ -6,7 +6,7 @@ Dibuat untuk memenuhi Penugasan Modul 4 Pemrograman Web.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: Express 5
 - **Language**: TypeScript
@@ -17,7 +17,7 @@ Dibuat untuk memenuhi Penugasan Modul 4 Pemrograman Web.
 
 ---
 
-## 📁 Struktur Folder
+##  Struktur Folder
 
 ```text
 pweb-express-mlbb-shop/
@@ -58,7 +58,7 @@ pweb-express-mlbb-shop/
 
 ---
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 
 ### 1. Install Dependencies
 ```bash
@@ -98,7 +98,7 @@ npx tsx test-runner.ts
 
 ---
 
-## 📋 Daftar Endpoint
+##  Daftar Endpoint
 
 | Fitur | Method | Endpoint | Keterangan |
 | :--- | :--- | :--- | :--- |
@@ -119,34 +119,34 @@ npx tsx test-runner.ts
 
 ---
 
-## 🧪 Hasil Pengujian (28 / 28 Passed)
+##  Hasil Pengujian (28 / 28 Passed)
 
 Semua 28 skenario pengujian Postman telah divalidasi dan berhasil 100%:
-- ✅ 01. Health Check (200)
-- ✅ 02. Daftar Hero Role Marksman (200, totalItems: 20)
-- ✅ 03. Cari Hero 'la' (200, totalItems: 10)
-- ✅ 04. Detail Hero Layla (200, 11 skins)
-- ✅ 05. Detail Hero Tidak Ada (404)
-- ✅ 06. Tambah Hero Collie (201, id 134)
-- ✅ 07. Tambah Hero Nama Sudah Ada (409)
-- ✅ 08. Tambah Hero Data Kurang (400)
-- ✅ 09. Daftar Skin Layla (200, totalItems: 11)
-- ✅ 10. Daftar Skin Rarity GRAND (200, totalItems: 98)
-- ✅ 11. Detail Skin Silverbolt Raiko (200, Selena)
-- ✅ 12. Buat Player JunglerMalam (201, id 4)
-- ✅ 13. Buat Player Nickname Dipakai (409)
-- ✅ 14. Top Up 706 Diamond (200, diamond: 706)
-- ✅ 15. Top Up Amount Negatif (400)
-- ✅ 16. Match Menang WIN (200, bp: 10300)
-- ✅ 17. Beli Freya Pakai BP Gagal (400)
-- ✅ 18. Beli Freya Pakai Diamond (201, diamond: 107)
-- ✅ 19. Beli Layla Pakai BP (201, bp: 8300)
-- ✅ 20. Beli Layla Lagi Sudah Punya (409)
-- ✅ 21. Beli Hirara BP Kurang (400)
-- ✅ 22. Detail Player MageSurabaya (200, Freya & Layla)
-- ✅ 23. Ganti Nickname Jadi MageITS (200)
-- ✅ 24. Ganti Nickname Dipakai (409)
-- ✅ 25. Statistik Toko (200)
-- ✅ 26. Hapus Player JunglerMalam (200)
-- ✅ 27. Detail Player Terhapus (404)
-- ✅ 28. Endpoint Tidak Ada (404)
+-  01. Health Check (200)
+-  02. Daftar Hero Role Marksman (200, totalItems: 20)
+-  03. Cari Hero 'la' (200, totalItems: 10)
+-  04. Detail Hero Layla (200, 11 skins)
+-  05. Detail Hero Tidak Ada (404)
+-  06. Tambah Hero Collie (201, id 134)
+-  07. Tambah Hero Nama Sudah Ada (409)
+-  08. Tambah Hero Data Kurang (400)
+-  09. Daftar Skin Layla (200, totalItems: 11)
+-  10. Daftar Skin Rarity GRAND (200, totalItems: 98)
+-  11. Detail Skin Silverbolt Raiko (200, Selena)
+-  12. Buat Player JunglerMalam (201, id 4)
+-  13. Buat Player Nickname Dipakai (409)
+-  14. Top Up 706 Diamond (200, diamond: 706)
+-  15. Top Up Amount Negatif (400)
+-  16. Match Menang WIN (200, bp: 10300)
+-  17. Beli Freya Pakai BP Gagal (400)
+-  18. Beli Freya Pakai Diamond (201, diamond: 107)
+-  19. Beli Layla Pakai BP (201, bp: 8300)
+-  20. Beli Layla Lagi Sudah Punya (409)
+-  21. Beli Hirara BP Kurang (400)
+-  22. Detail Player MageSurabaya (200, Freya & Layla)
+-  23. Ganti Nickname Jadi MageITS (200)
+-  24. Ganti Nickname Dipakai (409)
+-  25. Statistik Toko (200)
+-  26. Hapus Player JunglerMalam (200)
+-  27. Detail Player Terhapus (404)
+-  28. Endpoint Tidak Ada (404)
