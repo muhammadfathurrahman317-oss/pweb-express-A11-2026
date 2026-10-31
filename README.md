@@ -2,8 +2,6 @@
 
 Implementasi Backend REST API untuk **MLBB Shop** menggunakan **Express 5 + TypeScript + Prisma ORM 7 + PostgreSQL di Neon**.
 
-Dibuat untuk memenuhi Penugasan Modul 4 Pemrograman Web.
-
 ---
 
 ##  Tech Stack
